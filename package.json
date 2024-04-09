@@ -1,0 +1,15 @@
+{
+  "name": "classserver",
+  "version": "1.0.0",
+  "description": "Learning Server",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ganesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
